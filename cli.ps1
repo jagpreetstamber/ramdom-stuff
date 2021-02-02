@@ -1,1 +1,1 @@
-az --version
+$a = az --version
