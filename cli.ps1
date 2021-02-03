@@ -1,2 +1,2 @@
-#$a = az --version
+$a = az --version
 Write-Output "Hello"
