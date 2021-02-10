@@ -2,6 +2,9 @@ echo "Hello 3"
 
 echo %PATH%
 
+echo "Try full path"
+c:\AzCLI\az.cmd --version
+
 echo "Try the az"
 az --version
 
