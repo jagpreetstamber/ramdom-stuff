@@ -1,4 +1,7 @@
 echo "Hello"
+
+echo "Hello2"
+
 echo %PATH%
 
 echo "Try the az"
