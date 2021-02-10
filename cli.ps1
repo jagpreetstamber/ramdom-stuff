@@ -1,6 +1,4 @@
-echo "Hello"
-
-echo "Hello2"
+echo "Hello 3"
 
 echo %PATH%
 
