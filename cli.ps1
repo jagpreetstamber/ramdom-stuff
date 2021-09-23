@@ -16,4 +16,5 @@ c:\AzCLI\az --version
 
 timeout /T 5 /NOBREAK
 
-echo "Try full path without cmd"
+echo "Try full path without cm1d"
+ 
